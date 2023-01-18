@@ -1,5 +1,5 @@
 ---
-title: "A Logicians Guide to the Semantic Web"
+title: "A-Logicians-Guide-to-the-Semantic-Web"
 date: 2023-01-18
 
 Welcome to the Logic of RDF blog, a logicians guide to the semantic web!
