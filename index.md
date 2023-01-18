@@ -1,4 +1,4 @@
 ---
-title: The Logic of RDF
+title: Welcome to my blog
 ---
 
